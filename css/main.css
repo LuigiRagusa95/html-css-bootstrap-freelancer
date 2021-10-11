@@ -5,3 +5,5 @@
 .lrg-bg-green { background: #1abc9c; }
 .lrg-bg-darkblue { background: #2c3e50; }
 .lrg-bg-lightblue { background: #3a546d; }
+
+.box-256 { width: 256px; height: 256px; background-color: rgba(0, 0, 0, .3); }
