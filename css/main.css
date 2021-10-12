@@ -1,4 +1,7 @@
+a { text-decoration: none; color: currentColor; }
+
 .lrg-clr-white { color: #ffffff !important; }
+.lrg-clr-green { color: #1abc9c !important; }
 .lrg-clr-darkblue { color: #2c3e50 !important; }
 
 .lrg-bg-white { background: #ffffff !important; }
@@ -6,15 +9,17 @@
 .lrg-bg-darkblue { background: #2c3e50 !important; }
 .lrg-bg-lightblue { background: #3a546d !important; }
 
+.lrg-icon { width: 1.5rem; height: 1.5rem; display: flex; }
+
 .lrg-link-hover-green:hover { color: #1abc9c !important; }
 
 .lrg-pt-72 { padding-top: 4.5rem; }
-
-a { text-decoration: none; color: currentColor; }
+.lrg-mr-8 { margin-right: 0.5rem; }
 
 .lrg-h-4 { height: 4px; }
 .lrg-bdrs-4 { border-radius: .25rem; }
 .lrg-bdrs-full { border-radius: 9999px; }
+.lrg-bd-2-white { border: 2px solid #ffffff; }
 
 .lrg-w-256 { width: 256px; height: 256px; }
 
