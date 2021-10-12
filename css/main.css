@@ -37,7 +37,7 @@ img { max-width: 100%; }
 .lrg-btn-green { border-color: #1abc9c; background-color: #1abc9c; }
 .lrg-btn-green:hover { border-color: #3a546d; background-color: #3a546d; }
 
-.lrg-btn-outlined-green:hover { border-color: #ffffff; color: #1abc9c; background-color: #ffffff; }
+.lrg-btn-outlined-green:hover { border-color: #ffffff !important; color: #1abc9c !important; background-color: #ffffff !important; }
 
 /* Contact Section */
 .lrg-label { padding: 0; color: #2c3e50; font-weight: 600; }
