@@ -28,6 +28,16 @@ a { text-decoration: none; color: currentColor; }
 
 .absolutly { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }
 
+/* About */
+.lrg-btn-green { border-color: #1abc9c; background-color: #1abc9c; }
+.lrg-btn-green:hover { border-color: #3a546d; background-color: #3a546d; }
+
+.lrg-btn-outlined-green:hover { border-color: #ffffff; color: #1abc9c !important; background-color: #ffffff !important; }
+
+/* Contact Section */
+.lrg-label { padding: 0; color: #2c3e50; font-weight: 600; }
+.lrg-input-custom { border-color: transparent; border-bottom-color: #2c3e50; border-radius: 0; }
+.lrg-input-custom:focus { border-color: #2c3e50; outline: 0; box-shadow: 0 0 0 .25rem #1abc9c }
 
 .box-128 { width: 128px; height: 128px; background-color: rgba(0, 0, 0, .3); }
 .box-256 { width: 256px; height: 256px; background-color: rgba(0, 0, 0, .3); }
