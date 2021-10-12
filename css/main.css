@@ -1,12 +1,14 @@
-.lrg-clr-white { color: #ffffff; }
-.lrg-clr-darkblue { color: #2c3e50; }
+.lrg-clr-white { color: #ffffff !important; }
+.lrg-clr-darkblue { color: #2c3e50 !important; }
 
-.lrg-bg-white { background: #ffffff; }
-.lrg-bg-green { background: #1abc9c; }
-.lrg-bg-darkblue { background: #2c3e50; }
-.lrg-bg-lightblue { background: #3a546d; }
+.lrg-bg-white { background: #ffffff !important; }
+.lrg-bg-green { background: #1abc9c !important; }
+.lrg-bg-darkblue { background: #2c3e50 !important; }
+.lrg-bg-lightblue { background: #3a546d !important; }
 
+.lrg-link-hover-green:hover { color: #1abc9c !important; }
 
+.lrg-pt-72 { padding-top: 4.5rem; }
 
 .box-128 { width: 128px; height: 128px; background-color: rgba(0, 0, 0, .3); }
 .box-256 { width: 256px; height: 256px; background-color: rgba(0, 0, 0, .3); }
